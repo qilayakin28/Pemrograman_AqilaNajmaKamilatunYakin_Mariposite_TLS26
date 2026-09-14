@@ -18,10 +18,10 @@ Repository ini berisi seluruh hasil pengerjaan Tugas Pemrograman TLS26 yang menc
   * **Problem 1 (The Last Astronaut):** Diselesaikan menggunakan *Pseudocode* beserta 2 paragraf penjelasan logika.
   * **Problem 2 (Alien-in-the-Middle):** Diselesaikan menggunakan *Flowchart* (Diagram Alir) beserta 2 paragraf penjelasan logika.
 
-* **`problem1.cpp`**  
+* **`Problem 1.cpp`**  
   Source code C++ untuk penyelesaian **Problem 1 (The Last Astronaut)**.
 
-* **`problem2.cpp`**  
+* **`Problem 2.cpp`**  
   Source code C++ untuk penyelesaian **Problem 2 (Alien-in-the-Middle)**.
 
 ---
